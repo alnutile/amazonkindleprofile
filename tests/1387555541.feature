@@ -1,4 +1,4 @@
- @local
+ @local @anonymous
  Feature: Example Test for WikiPedia
  
    Scenario: WikiPedia

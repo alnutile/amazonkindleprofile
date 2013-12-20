@@ -1,4 +1,4 @@
- @admin @external
+ @external
  Feature: Example Test for WikiPedia
  
    Scenario: WikiPedia
